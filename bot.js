@@ -293,9 +293,9 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Amalser ~______~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA*' +
-                                    '\n\n*⚠️ ' + error + '*\n'
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐙𝐀𝐋𝐈𝐎𝐎𝐒 ~______~*' +
+                                    '\n*✔︎ Subcribe this channel other wise chance to get erorr:instagram.com/zalioos*' +
+                                    '\n\n*☠︎︎ ' + error + '*\n'
                                     , MessageType.text);
                             }
                         }
